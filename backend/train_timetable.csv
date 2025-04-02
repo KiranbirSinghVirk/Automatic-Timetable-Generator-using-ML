@@ -1,0 +1,601 @@
+Day,Slot,Branch,Subject,Faculty,Room,Type,Assigned
+Monday,9:35-10:20,CSE3AB,Mathematics-III,Ms.Rashmi,301,Theory,1
+Monday,10:20-11:10,CSE3AB,Data structure & Algorithms,Ms.Meenakshi Garg,301,Theory,1
+Monday,11:10-12:00,CSE3AB,Object Oriented Programming,Ms.Sonia Sharma Dureja,301,Theory,1
+Monday,12:00-12:50,CSE3AB,Foundation Course in Humanities,Ms.Anjali,301,Theory,1
+Monday,1:35-2:20,CSE3AB,Digital Electronics LAB,Ms.Bhupinder KAUR,L1,Lab,1
+Monday,2:20-3:05,CSE3AB,Digital Electronics LAB,Ms.Bhupinder KAUR,L1,Lab,1
+Monday,3:05-3:50,CSE3AB,Digital Electronics,Ms.Bhupinder KAUR,301,Theory,1
+Monday,3:50-4:35,CSE3AB,IT Workshop,Ms.Deeksha,301,Theory,1
+Tuesday,9:35-10:20,CSE3AB,Data structure & Algorithms LAB,Ms.Meenakshi Garg,L1,Lab,1
+Tuesday,10:20-11:10,CSE3AB,Data structure & Algorithms LAB,Ms.Meenakshi Garg,L1,Lab,1
+Tuesday,11:10-12:00,CSE3AB,Mathematics-III,Ms.Rashmi,301,Theory,1
+Tuesday,12:00-12:50,CSE3AB,Object Oriented Programming,Ms.Sonia Sharma Dureja,301,Theory,1
+Tuesday,1:35-2:20,CSE3AB,IT Workshop LAB,Ms.Deeksha,L1,Lab,1
+Tuesday,2:20-3:05,CSE3AB,IT Workshop LAB,Ms.Deeksha,L1,Lab,1
+Tuesday,3:05-3:50,CSE3AB,Foundation Course in Humanities,Ms.Anjali,301,Theory,1
+Tuesday,3:50-4:35,CSE3AB,Digital Electronics,Ms.Bhupinder KAUR,301,Theory,1
+Wednesday,9:35-10:20,CSE3AB,Object Oriented Programming LAB,Ms.Sonia Sharma Dureja,L1,Lab,1
+Wednesday,10:20-11:10,CSE3AB,Object Oriented Programming LAB,Ms.Sonia Sharma Dureja,L1,Lab,1
+Wednesday,11:10-12:00,CSE3AB,Data structure & Algorithms,Ms.Meenakshi Garg,301,Theory,1
+Wednesday,12:00-12:50,CSE3AB,Mathematics-III,Ms.Rashmi,301,Theory,1
+Wednesday,1:35-2:20,CSE3AB,IT Workshop,Ms.Deeksha,301,Theory,1
+Wednesday,2:20-3:05,CSE3AB,Foundation Course in Humanities,Ms.Anjali,301,Theory,1
+Wednesday,3:05-3:50,CSE3AB,Digital Electronics,Ms.Bhupinder KAUR,301,Theory,1
+Wednesday,3:50-4:35,CSE3AB,FREE,,FREE,,1
+Thursday,9:35-10:20,CSE3AB,Mathematics-III,Ms.Rashmi,301,Theory,1
+Thursday,10:20-11:10,CSE3AB,Data structure & Algorithms,Ms.Meenakshi Garg,301,Theory,1
+Thursday,11:10-12:00,CSE3AB,Object Oriented Programming,Ms.Sonia Sharma Dureja,301,Theory,1
+Thursday,12:00-12:50,CSE3AB,Foundation Course in Humanities,Ms.Anjali,301,Theory,1
+Thursday,1:35-2:20,CSE3AB,Digital Electronics,Ms.Bhupinder KAUR,301,Theory,1
+Thursday,2:20-3:05,CSE3AB,IT Workshop,Ms.Deeksha,301,Theory,1
+Thursday,3:05-3:50,CSE3AB,FREE,,FREE,,1
+Thursday,3:50-4:35,CSE3AB,FREE,,FREE,,1
+Friday,9:35-10:20,CSE3AB,Data structure & Algorithms,Ms.Meenakshi Garg,301,Theory,1
+Friday,10:20-11:10,CSE3AB,Object Oriented Programming,Ms.Sonia Sharma Dureja,301,Theory,1
+Friday,11:10-12:00,CSE3AB,IT Workshop,Ms.Deeksha,301,Theory,1
+Friday,12:00-12:50,CSE3AB,FREE,,FREE,,1
+Friday,1:35-2:20,CSE3AB,FREE,,FREE,,1
+Friday,2:20-3:05,CSE3AB,FREE,,FREE,,1
+Friday,3:05-3:50,CSE3AB,FREE,,FREE,,1
+Friday,3:50-4:35,CSE3AB,FREE,,FREE,,1
+Monday,9:35-10:20,CSE3CD,Digital Electronics LAB,Ms.Sonia Bhukra,L2,Lab,1
+Monday,10:20-11:10,CSE3CD,Digital Electronics LAB,Ms.Sonia Bhukra,L2,Lab,1
+Monday,11:10-12:00,CSE3CD,Mathematics-III,Ms.Rashmi,302,Theory,1
+Monday,12:00-12:50,CSE3CD,Foundation Course in Humanities,Ms.Anjali,302,Theory,1
+Monday,1:35-2:20,CSE3CD,Data Structure & Algorithms,Ms.Meenakshi Garg,302,Theory,1
+Monday,2:20-3:05,CSE3CD,Object Oriented Programming,Mr.Saroj Kumar Gupta,302,Theory,1
+Monday,3:05-3:50,CSE3CD,IT Workshop,Ms.Pooja Verma,302,Theory,1
+Monday,3:50-4:35,CSE3CD,Digital Electronics,Ms.Sonia Bhukra,302,Theory,1
+Tuesday,9:35-10:20,CSE3CD,Data Structure & Algorithms LAB,Ms.Meenakshi Garg,L2,Lab,1
+Tuesday,10:20-11:10,CSE3CD,Data Structure & Algorithms LAB,Ms.Meenakshi Garg,L2,Lab,1
+Tuesday,11:10-12:00,CSE3CD,Mathematics-III,Ms.Rashmi,302,Theory,1
+Tuesday,12:00-12:50,CSE3CD,Foundation Course in Humanities,Ms.Anjali,302,Theory,1
+Tuesday,1:35-2:20,CSE3CD,Object Oriented Programming LAB,Mr.Saroj Kumar Gupta,L2,Lab,1
+Tuesday,2:20-3:05,CSE3CD,Object Oriented Programming LAB,Mr.Saroj Kumar Gupta,L2,Lab,1
+Tuesday,3:05-3:50,CSE3CD,IT Workshop LAB,Ms.Pooja Verma,L2,Lab,1
+Tuesday,3:50-4:35,CSE3CD,IT Workshop LAB,Ms.Pooja Verma,L2,Lab,1
+Wednesday,9:35-10:20,CSE3CD,Digital Electronics,Ms.Sonia Bhukra,302,Theory,1
+Wednesday,10:20-11:10,CSE3CD,Data Structure & Algorithms,Ms.Meenakshi Garg,302,Theory,1
+Wednesday,11:10-12:00,CSE3CD,Object Oriented Programming,Mr.Saroj Kumar Gupta,302,Theory,1
+Wednesday,12:00-12:50,CSE3CD,Mathematics-III,Ms.Rashmi,302,Theory,1
+Wednesday,1:35-2:20,CSE3CD,Foundation Course in Humanities,Ms.Anjali,302,Theory,1
+Wednesday,2:20-3:05,CSE3CD,IT Workshop,Ms.Pooja Verma,302,Theory,1
+Wednesday,3:05-3:50,CSE3CD,FREE,,FREE,,1
+Wednesday,3:50-4:35,CSE3CD,FREE,,FREE,,1
+Thursday,9:35-10:20,CSE3CD,Digital Electronics,Ms.Sonia Bhukra,302,Theory,1
+Thursday,10:20-11:10,CSE3CD,Data Structure & Algorithms,Ms.Meenakshi Garg,302,Theory,1
+Thursday,11:10-12:00,CSE3CD,Object Oriented Programming,Mr.Saroj Kumar Gupta,302,Theory,1
+Thursday,12:00-12:50,CSE3CD,Mathematics-III,Ms.Rashmi,302,Theory,1
+Thursday,1:35-2:20,CSE3CD,Foundation Course in Humanities,Ms.Anjali,302,Theory,1
+Thursday,2:20-3:05,CSE3CD,IT Workshop,Ms.Pooja Verma,302,Theory,1
+Thursday,3:05-3:50,CSE3CD,FREE,,FREE,,1
+Thursday,3:50-4:35,CSE3CD,FREE,,FREE,,1
+Friday,9:35-10:20,CSE3CD,Digital Electronics,Ms.Sonia Bhukra,302,Theory,1
+Friday,10:20-11:10,CSE3CD,Data Structure & Algorithms,Ms.Meenakshi Garg,302,Theory,1
+Friday,11:10-12:00,CSE3CD,Object Oriented Programming,Mr.Saroj Kumar Gupta,302,Theory,1
+Friday,12:00-12:50,CSE3CD,IT Workshop,Ms.Pooja Verma,302,Theory,1
+Friday,1:35-2:20,CSE3CD,FREE,,FREE,,1
+Friday,2:20-3:05,CSE3CD,FREE,,FREE,,1
+Friday,3:05-3:50,CSE3CD,FREE,,FREE,,1
+Friday,3:50-4:35,CSE3CD,FREE,,FREE,,1
+Monday,9:35-10:20,CSE5AB,Database Management Systems,KAWALPREET,501,Theory,1
+Monday,10:20-11:10,CSE5AB,Formal Language & Automata Theory,Tanya,501,Theory,1
+Monday,11:10-12:00,CSE5AB,Software Engineering,NF,501,Theory,1
+Monday,12:00-12:50,CSE5AB,Computer Networks,Dr.Puneet,501,Theory,1
+Monday,1:35-2:20,CSE5AB,Database Management Systems LAB,KAWALPREET,L2,Lab,1
+Monday,2:20-3:05,CSE5AB,Database Management Systems LAB,KAWALPREET,L2,Lab,1
+Monday,3:05-3:50,CSE5AB,Programming in Python,MS.Khushnain Kour,501,Theory,1
+Monday,3:50-4:35,CSE5AB,Operating Systems,Ms.Neha Gupta,501,Theory,1
+Tuesday,9:35-10:20,CSE5AB,Formal Language & Automata Theory,Tanya,501,Theory,1
+Tuesday,10:20-11:10,CSE5AB,Computer Networks LAB,Dr.Puneet,L2,Lab,1
+Tuesday,11:10-12:00,CSE5AB,Computer Networks LAB,Dr.Puneet,L2,Lab,1
+Tuesday,12:00-12:50,CSE5AB,Software Engineering,NF,501,Theory,1
+Tuesday,1:35-2:20,CSE5AB,Database Management Systems,KAWALPREET,501,Theory,1
+Tuesday,2:20-3:05,CSE5AB,Programming in Python,MS.Khushnain Kour,501,Theory,1
+Tuesday,3:05-3:50,CSE5AB,Operating Systems,Ms.Neha Gupta,501,Theory,1
+Tuesday,3:50-4:35,CSE5AB,FREE,,FREE,,1
+Wednesday,9:35-10:20,CSE5AB,Database Management Systems,KAWALPREET,501,Theory,1
+Wednesday,10:20-11:10,CSE5AB,Formal Language & Automata Theory,Tanya,501,Theory,1
+Wednesday,11:10-12:00,CSE5AB,Software Engineering,NF,501,Theory,1
+Wednesday,12:00-12:50,CSE5AB,Computer Networks,Dr.Puneet,501,Theory,1
+Wednesday,1:35-2:20,CSE5AB,Operating Systems LAB,Ms.Neha Gupta,L2,Lab,1
+Wednesday,2:20-3:05,CSE5AB,Operating Systems LAB,Ms.Neha Gupta,L2,Lab,1
+Wednesday,3:05-3:50,CSE5AB,Programming in Python,MS.Khushnain Kour,501,Theory,1
+Wednesday,3:50-4:35,CSE5AB,FREE,,FREE,,1
+Thursday,9:35-10:20,CSE5AB,Computer Networks,Dr.Puneet,501,Theory,1
+Thursday,10:20-11:10,CSE5AB,Software Engineering,NF,501,Theory,1
+Thursday,11:10-12:00,CSE5AB,Formal Language & Automata Theory,Tanya,501,Theory,1
+Thursday,12:00-12:50,CSE5AB,Database Management Systems,KAWALPREET,501,Theory,1
+Thursday,1:35-2:20,CSE5AB,Programming in Python LAB,MS.Khushnain Kour,L2,Lab,1
+Thursday,2:20-3:05,CSE5AB,Programming in Python LAB,MS.Khushnain Kour,L2,Lab,1
+Thursday,3:05-3:50,CSE5AB,Operating Systems,Ms.Neha Gupta,501,Theory,1
+Thursday,3:50-4:35,CSE5AB,FREE,,FREE,,1
+Friday,9:35-10:20,CSE5AB,Programming in Python,MS.Khushnain Kour,501,Theory,1
+Friday,10:20-11:10,CSE5AB,Computer Networks,Dr.Puneet,501,Theory,1
+Friday,11:10-12:00,CSE5AB,Software Engineering,NF,501,Theory,1
+Friday,12:00-12:50,CSE5AB,Formal Language & Automata Theory,Tanya,501,Theory,1
+Friday,1:35-2:20,CSE5AB,Operating Systems,Ms.Neha Gupta,501,Theory,1
+Friday,2:20-3:05,CSE5AB,Database Management Systems,KAWALPREET,501,Theory,1
+Friday,3:05-3:50,CSE5AB,FREE,,FREE,,1
+Friday,3:50-4:35,CSE5AB,FREE,,FREE,,1
+Monday,9:35-10:20,CSE5CD,Database Management Systems,Ms.Kawalpreet,502,Theory,1
+Monday,10:20-11:10,CSE5CD,Formal Language & Automata Theory,Ms.Tanya,502,Theory,1
+Monday,11:10-12:00,CSE5CD,Database Management Systems LAB,Ms.Kawalpreet,L4,Lab,1
+Monday,12:00-12:50,CSE5CD,Database Management Systems LAB,Ms.Kawalpreet,L4,Lab,1
+Monday,1:35-2:20,CSE5CD,Software Engineering,Mr.Rajesh Sharma,502,Theory,1
+Monday,2:20-3:05,CSE5CD,Computer Networks,Dr.Puneet,502,Theory,1
+Monday,3:05-3:50,CSE5CD,FREE,,FREE,,1
+Monday,3:50-4:35,CSE5CD,Programming in Python,Ms.Preeti Singh,502,Theory,1
+Tuesday,9:35-10:20,CSE5CD,Operating Systems,Ms.Neha Gupta,502,Theory,1
+Tuesday,10:20-11:10,CSE5CD,Computer Networks LAB,Dr.Puneet,L4,Lab,1
+Tuesday,11:10-12:00,CSE5CD,Computer Networks LAB,Dr.Puneet,L4,Lab,1
+Tuesday,12:00-12:50,CSE5CD,Database Management Systems,Ms.Kawalpreet,502,Theory,1
+Tuesday,1:35-2:20,CSE5CD,Formal Language & Automata Theory,Ms.Tanya,502,Theory,1
+Tuesday,2:20-3:05,CSE5CD,Software Engineering,Mr.Rajesh Sharma,502,Theory,1
+Tuesday,3:05-3:50,CSE5CD,FREE,,FREE,,1
+Tuesday,3:50-4:35,CSE5CD,Programming in Python,Ms.Preeti Singh,502,Theory,1
+Wednesday,9:35-10:20,CSE5CD,Operating Systems LAB,Ms.Neha Gupta,L4,Lab,1
+Wednesday,10:20-11:10,CSE5CD,Operating Systems LAB,Ms.Neha Gupta,L4,Lab,1
+Wednesday,11:10-12:00,CSE5CD,Computer Networks,Dr.Puneet,502,Theory,1
+Wednesday,12:00-12:50,CSE5CD,Database Management Systems,Ms.Kawalpreet,502,Theory,1
+Wednesday,1:35-2:20,CSE5CD,Formal Language & Automata Theory,Ms.Tanya,502,Theory,1
+Wednesday,2:20-3:05,CSE5CD,FREE,,FREE,,1
+Wednesday,3:05-3:50,CSE5CD,Software Engineering,Mr.Rajesh Sharma,502,Theory,1
+Wednesday,3:50-4:35,CSE5CD,Operating Systems,Ms.Neha Gupta,502,Theory,1
+Thursday,9:35-10:20,CSE5CD,Programming in Python LAB,Ms.Preeti Singh,L4,Lab,1
+Thursday,10:20-11:10,CSE5CD,Programming in Python LAB,Ms.Preeti Singh,L4,Lab,1
+Thursday,11:10-12:00,CSE5CD,Computer Networks,Dr.Puneet,502,Theory,1
+Thursday,12:00-12:50,CSE5CD,Database Management Systems,Ms.Kawalpreet,502,Theory,1
+Thursday,1:35-2:20,CSE5CD,Formal Language & Automata Theory,Ms.Tanya,502,Theory,1
+Thursday,2:20-3:05,CSE5CD,FREE,,FREE,,1
+Thursday,3:05-3:50,CSE5CD,Software Engineering,Mr.Rajesh Sharma,502,Theory,1
+Thursday,3:50-4:35,CSE5CD,Operating Systems,Ms.Neha Gupta,502,Theory,1
+Friday,9:35-10:20,CSE5CD,Programming in Python,Ms.Preeti Singh,502,Theory,1
+Friday,10:20-11:10,CSE5CD,Computer Networks,Dr.Puneet,502,Theory,1
+Friday,11:10-12:00,CSE5CD,FREE,,FREE,,1
+Friday,12:00-12:50,CSE5CD,FREE,,FREE,,1
+Friday,1:35-2:20,CSE5CD,FREE,,FREE,,1
+Friday,2:20-3:05,CSE5CD,FREE,,FREE,,1
+Friday,3:05-3:50,CSE5CD,Operating Systems,Ms.Neha Gupta,502,Theory,1
+Friday,3:50-4:35,CSE5CD,Programming in Python,Ms.Preeti Singh,502,Theory,1
+Monday,9:35-10:20,CSE7AB,Artificial Intelligence,Dr.Amit Kumar,701,Theory,1
+Monday,10:20-11:10,CSE7AB,Artificial Intelligence LAB,Dr.Amit Kumar,L5,Lab,1
+Monday,11:10-12:00,CSE7AB,Artificial Intelligence LAB,Dr.Amit Kumar,L5,Lab,1
+Monday,12:00-12:50,CSE7AB,Machine Learning,Ms.Sneha Patel,701,Theory,1
+Monday,1:35-2:20,CSE7AB,Big Data Analytics,Mr.Vivek Sharma,701,Theory,1
+Monday,2:20-3:05,CSE7AB,Cloud Computing,Ms.Nidhi Gupta,701,Theory,1
+Monday,3:05-3:50,CSE7AB,FREE,,FREE,,1
+Monday,3:50-4:35,CSE7AB,Information Security,Dr.Ravi Singh,701,Theory,1
+Tuesday,9:35-10:20,CSE7AB,Project Work,Ms.Anita Verma,701,Theory,1
+Tuesday,10:20-11:10,CSE7AB,Machine Learning LAB,Ms.Sneha Patel,L5,Lab,1
+Tuesday,11:10-12:00,CSE7AB,Machine Learning LAB,Ms.Sneha Patel,L5,Lab,1
+Tuesday,12:00-12:50,CSE7AB,Artificial Intelligence,Dr.Amit Kumar,701,Theory,1
+Tuesday,1:35-2:20,CSE7AB,Big Data Analytics,Mr.Vivek Sharma,701,Theory,1
+Tuesday,2:20-3:05,CSE7AB,Cloud Computing,Ms.Nidhi Gupta,701,Theory,1
+Tuesday,3:05-3:50,CSE7AB,FREE,,FREE,,1
+Tuesday,3:50-4:35,CSE7AB,Information Security,Dr.Ravi Singh,701,Theory,1
+Wednesday,9:35-10:20,CSE7AB,Big Data Analytics LAB,Mr.Vivek Sharma,L5,Lab,1
+Wednesday,10:20-11:10,CSE7AB,Big Data Analytics LAB,Mr.Vivek Sharma,L5,Lab,1
+Wednesday,11:10-12:00,CSE7AB,Machine Learning,Ms.Sneha Patel,701,Theory,1
+Wednesday,12:00-12:50,CSE7AB,Artificial Intelligence,Dr.Amit Kumar,701,Theory,1
+Wednesday,1:35-2:20,CSE7AB,Cloud Computing,Ms.Nidhi Gupta,701,Theory,1
+Wednesday,2:20-3:05,CSE7AB,FREE,,FREE,,1
+Wednesday,3:05-3:50,CSE7AB,Information Security,Dr.Ravi Singh,701,Theory,1
+Wednesday,3:50-4:35,CSE7AB,Project Work,Ms.Anita Verma,701,Theory,1
+Thursday,9:35-10:20,CSE7AB,Cloud Computing LAB,Ms.Nidhi Gupta,L5,Lab,1
+Thursday,10:20-11:10,CSE7AB,Cloud Computing LAB,Ms.Nidhi Gupta,L5,Lab,1
+Thursday,11:10-12:00,CSE7AB,Big Data Analytics,Mr.Vivek Sharma,701,Theory,1
+Thursday,12:00-12:50,CSE7AB,Machine Learning,Ms.Sneha Patel,701,Theory,1
+Thursday,1:35-2:20,CSE7AB,Artificial Intelligence,Dr.Amit Kumar,701,Theory,1
+Thursday,2:20-3:05,CSE7AB,FREE,,FREE,,1
+Thursday,3:05-3:50,CSE7AB,Information Security,Dr.Ravi Singh,701,Theory,1
+Thursday,3:50-4:35,CSE7AB,Project Work,Ms.Anita Verma,701,Theory,1
+Friday,9:35-10:20,CSE7AB,Cloud Computing,Ms.Nidhi Gupta,701,Theory,1
+Friday,10:20-11:10,CSE7AB,Big Data Analytics,Mr.Vivek Sharma,701,Theory,1
+Friday,11:10-12:00,CSE7AB,FREE,,FREE,,1
+Friday,12:00-12:50,CSE7AB,FREE,,FREE,,1
+Friday,1:35-2:20,CSE7AB,FREE,,FREE,,1
+Friday,2:20-3:05,CSE7AB,FREE,,FREE,,1
+Friday,3:05-3:50,CSE7AB,Machine Learning,Ms.Sneha Patel,701,Theory,1
+Friday,3:50-4:35,CSE7AB,Project Work,Ms.Anita Verma,701,Theory,1
+Monday,9:35-10:20,CSE7CD,Artificial Intelligence,Dr.Amit Kumar,702,Theory,1
+Monday,10:20-11:10,CSE7CD,Artificial Intelligence LAB,Dr.Amit Kumar,L6,Lab,1
+Monday,11:10-12:00,CSE7CD,Artificial Intelligence LAB,Dr.Amit Kumar,L6,Lab,1
+Monday,12:00-12:50,CSE7CD,Machine Learning,Ms.Sneha Patel,702,Theory,1
+Monday,1:35-2:20,CSE7CD,Big Data Analytics,Mr.Rahul Jain,702,Theory,1
+Monday,2:20-3:05,CSE7CD,Cloud Computing,Ms.Nidhi Gupta,702,Theory,1
+Monday,3:05-3:50,CSE7CD,FREE,,FREE,,1
+Monday,3:50-4:35,CSE7CD,Information Security,Dr.Ravi Singh,702,Theory,1
+Tuesday,9:35-10:20,CSE7CD,Project Work,Ms.Anita Verma,702,Theory,1
+Tuesday,10:20-11:10,CSE7CD,Machine Learning LAB,Ms.Sneha Patel,L6,Lab,1
+Tuesday,11:10-12:00,CSE7CD,Machine Learning LAB,Ms.Sneha Patel,L6,Lab,1
+Tuesday,12:00-12:50,CSE7CD,Artificial Intelligence,Dr.Amit Kumar,702,Theory,1
+Tuesday,1:35-2:20,CSE7CD,Big Data Analytics,Mr.Rahul Jain,702,Theory,1
+Tuesday,2:20-3:05,CSE7CD,Cloud Computing,Ms.Nidhi Gupta,702,Theory,1
+Tuesday,3:05-3:50,CSE7CD,FREE,,FREE,,1
+Tuesday,3:50-4:35,CSE7CD,Information Security,Dr.Ravi Singh,702,Theory,1
+Wednesday,9:35-10:20,CSE7CD,Big Data Analytics LAB,Mr.Rahul Jain,L6,Lab,1
+Wednesday,10:20-11:10,CSE7CD,Big Data Analytics LAB,Mr.Rahul Jain,L6,Lab,1
+Wednesday,11:10-12:00,CSE7CD,Machine Learning,Ms.Sneha Patel,702,Theory,1
+Wednesday,12:00-12:50,CSE7CD,Artificial Intelligence,Dr.Amit Kumar,702,Theory,1
+Wednesday,1:35-2:20,CSE7CD,Cloud Computing,Ms.Nidhi Gupta,702,Theory,1
+Wednesday,2:20-3:05,CSE7CD,FREE,,FREE,,1
+Wednesday,3:05-3:50,CSE7CD,Information Security,Dr.Ravi Singh,702,Theory,1
+Wednesday,3:50-4:35,CSE7CD,Project Work,Ms.Anita Verma,702,Theory,1
+Thursday,9:35-10:20,CSE7CD,Cloud Computing LAB,Ms.Nidhi Gupta,L6,Lab,1
+Thursday,10:20-11:10,CSE7CD,Cloud Computing LAB,Ms.Nidhi Gupta,L6,Lab,1
+Thursday,11:10-12:00,CSE7CD,Big Data Analytics,Mr.Rahul Jain,702,Theory,1
+Thursday,12:00-12:50,CSE7CD,Machine Learning,Ms.Sneha Patel,702,Theory,1
+Thursday,1:35-2:20,CSE7CD,Artificial Intelligence,Dr.Amit Kumar,702,Theory,1
+Thursday,2:20-3:05,CSE7CD,FREE,,FREE,,1
+Thursday,3:05-3:50,CSE7CD,Information Security,Dr.Ravi Singh,702,Theory,1
+Thursday,3:50-4:35,CSE7CD,Project Work,Ms.Anita Verma,702,Theory,1
+Friday,9:35-10:20,CSE7CD,Cloud Computing,Ms.Nidhi Gupta,702,Theory,1
+Friday,10:20-11:10,CSE7CD,Big Data Analytics,Mr.Rahul Jain,702,Theory,1
+Friday,11:10-12:00,CSE7CD,FREE,,FREE,,1
+Friday,12:00-12:50,CSE7CD,FREE,,FREE,,1
+Friday,1:35-2:20,CSE7CD,FREE,,FREE,,1
+Friday,2:20-3:05,CSE7CD,FREE,,FREE,,1
+Friday,3:05-3:50,CSE7CD,Machine Learning,Ms.Sneha Patel,702,Theory,1
+Friday,3:50-4:35,CSE7CD,Project Work,Ms.Anita Verma,702,Theory,1
+Monday,9:35-10:20,AIML3AB,Machine Learning Fundamentals,Ms.Sneha Patel,303,Theory,1
+Monday,10:20-11:10,AIML3AB,Data Structures,Ms.Meenakshi Garg,303,Theory,1
+Monday,11:10-12:00,AIML3AB,Machine Learning Fundamentals LAB,Ms.Sneha Patel,L7,Lab,1
+Monday,12:00-12:50,AIML3AB,Machine Learning Fundamentals LAB,Ms.Sneha Patel,L7,Lab,1
+Monday,1:35-2:20,AIML3AB,Mathematics-III,Ms.Rashmi,303,Theory,1
+Monday,2:20-3:05,AIML3AB,Python Programming,Ms.Khushnain Kour,303,Theory,1
+Monday,3:05-3:50,AIML3AB,FREE,,FREE,,1
+Monday,3:50-4:35,AIML3AB,Digital Electronics,Ms.Bhupinder KAUR,303,Theory,1
+Tuesday,9:35-10:20,AIML3AB,Statistics,Mr.Vikas Jain,303,Theory,1
+Tuesday,10:20-11:10,AIML3AB,Data Structures LAB,Ms.Meenakshi Garg,L7,Lab,1
+Tuesday,11:10-12:00,AIML3AB,Data Structures LAB,Ms.Meenakshi Garg,L7,Lab,1
+Tuesday,12:00-12:50,AIML3AB,Machine Learning Fundamentals,Ms.Sneha Patel,303,Theory,1
+Tuesday,1:35-2:20,AIML3AB,Mathematics-III,Ms.Rashmi,303,Theory,1
+Tuesday,2:20-3:05,AIML3AB,Python Programming,Ms.Khushnain Kour,303,Theory,1
+Tuesday,3:05-3:50,AIML3AB,FREE,,FREE,,1
+Tuesday,3:50-4:35,AIML3AB,Digital Electronics,Ms.Bhupinder KAUR,303,Theory,1
+Wednesday,9:35-10:20,AIML3AB,Python Programming LAB,Ms.Khushnain Kour,L7,Lab,1
+Wednesday,10:20-11:10,AIML3AB,Python Programming LAB,Ms.Khushnain Kour,L7,Lab,1
+Wednesday,11:10-12:00,AIML3AB,Data Structures,Ms.Meenakshi Garg,303,Theory,1
+Wednesday,12:00-12:50,AIML3AB,Machine Learning Fundamentals,Ms.Sneha Patel,303,Theory,1
+Wednesday,1:35-2:20,AIML3AB,Mathematics-III,Ms.Rashmi,303,Theory,1
+Wednesday,2:20-3:05,AIML3AB,FREE,,FREE,,1
+Wednesday,3:05-3:50,AIML3AB,Digital Electronics,Ms.Bhupinder KAUR,303,Theory,1
+Wednesday,3:50-4:35,AIML3AB,Statistics,Mr.Vikas Jain,303,Theory,1
+Thursday,9:35-10:20,AIML3AB,Digital Electronics LAB,Ms.Bhupinder KAUR,L7,Lab,1
+Thursday,10:20-11:10,AIML3AB,Digital Electronics LAB,Ms.Bhupinder KAUR,L7,Lab,1
+Thursday,11:10-12:00,AIML3AB,Python Programming,Ms.Khushnain Kour,303,Theory,1
+Thursday,12:00-12:50,AIML3AB,Machine Learning Fundamentals,Ms.Sneha Patel,303,Theory,1
+Thursday,1:35-2:20,AIML3AB,Mathematics-III,Ms.Rashmi,303,Theory,1
+Thursday,2:20-3:05,AIML3AB,FREE,,FREE,,1
+Thursday,3:05-3:50,AIML3AB,Digital Electronics,Ms.Bhupinder KAUR,303,Theory,1
+Thursday,3:50-4:35,AIML3AB,Statistics,Mr.Vikas Jain,303,Theory,1
+Friday,9:35-10:20,AIML3AB,Data Structures,Ms.Meenakshi Garg,303,Theory,1
+Friday,10:20-11:10,AIML3AB,Python Programming,Ms.Khushnain Kour,303,Theory,1
+Friday,11:10-12:00,AIML3AB,FREE,,FREE,,1
+Friday,12:00-12:50,AIML3AB,FREE,,FREE,,1
+Friday,1:35-2:20,AIML3AB,FREE,,FREE,,1
+Friday,2:20-3:05,AIML3AB,FREE,,FREE,,1
+Friday,3:05-3:50,AIML3AB,Statistics,Mr.Vikas Jain,303,Theory,1
+Friday,3:50-4:35,AIML3AB,FREE,,FREE,,1
+Monday,9:35-10:20,AIML3CD,Machine Learning Fundamentals,Ms.Sneha Patel,304,Theory,1
+Monday,10:20-11:10,AIML3CD,Data Structures,Ms.Preeti Singh,304,Theory,1
+Monday,11:10-12:00,AIML3CD,Machine Learning Fundamentals LAB,Ms.Sneha Patel,L8,Lab,1
+Monday,12:00-12:50,AIML3CD,Machine Learning Fundamentals LAB,Ms.Sneha Patel,L8,Lab,1
+Monday,1:35-2:20,AIML3CD,Mathematics-III,Ms.Rashmi,304,Theory,1
+Monday,2:20-3:05,AIML3CD,Python Programming,Ms.Khushnain Kour,304,Theory,1
+Monday,3:05-3:50,AIML3CD,FREE,,FREE,,1
+Monday,3:50-4:35,AIML3CD,Digital Electronics,Ms.Sonia Bhukra,304,Theory,1
+Tuesday,9:35-10:20,AIML3CD,Statistics,Mr.Vikas Jain,304,Theory,1
+Tuesday,10:20-11:10,AIML3CD,Data Structures LAB,Ms.Preeti Singh,L8,Lab,1
+Tuesday,11:10-12:00,AIML3CD,Data Structures LAB,Ms.Preeti Singh,L8,Lab,1
+Tuesday,12:00-12:50,AIML3CD,Machine Learning Fundamentals,Ms.Sneha Patel,304,Theory,1
+Tuesday,1:35-2:20,AIML3CD,Mathematics-III,Ms.Rashmi,304,Theory,1
+Tuesday,2:20-3:05,AIML3CD,Python Programming,Ms.Khushnain Kour,304,Theory,1
+Tuesday,3:05-3:50,AIML3CD,FREE,,FREE,,1
+Tuesday,3:50-4:35,AIML3CD,Digital Electronics,Ms.Sonia Bhukra,304,Theory,1
+Wednesday,9:35-10:20,AIML3CD,Python Programming LAB,Ms.Khushnain Kour,L8,Lab,1
+Wednesday,10:20-11:10,AIML3CD,Python Programming LAB,Ms.Khushnain Kour,L8,Lab,1
+Wednesday,11:10-12:00,AIML3CD,Data Structures,Ms.Preeti Singh,304,Theory,1
+Wednesday,12:00-12:50,AIML3CD,Machine Learning Fundamentals,Ms.Sneha Patel,304,Theory,1
+Wednesday,1:35-2:20,AIML3CD,Mathematics-III,Ms.Rashmi,304,Theory,1
+Wednesday,2:20-3:05,AIML3CD,FREE,,FREE,,1
+Wednesday,3:05-3:50,AIML3CD,Digital Electronics,Ms.Sonia Bhukra,304,Theory,1
+Wednesday,3:50-4:35,AIML3CD,Statistics,Mr.Vikas Jain,304,Theory,1
+Thursday,9:35-10:20,AIML3CD,Digital Electronics LAB,Ms.Sonia Bhukra,L8,Lab,1
+Thursday,10:20-11:10,AIML3CD,Digital Electronics LAB,Ms.Sonia Bhukra,L8,Lab,1
+Thursday,11:10-12:00,AIML3CD,Python Programming,Ms.Khushnain Kour,304,Theory,1
+Thursday,12:00-12:50,AIML3CD,Machine Learning Fundamentals,Ms.Sneha Patel,304,Theory,1
+Thursday,1:35-2:20,AIML3CD,Mathematics-III,Ms.Rashmi,304,Theory,1
+Thursday,2:20-3:05,AIML3CD,FREE,,FREE,,1
+Thursday,3:05-3:50,AIML3CD,Digital Electronics,Ms.Sonia Bhukra,304,Theory,1
+Thursday,3:50-4:35,AIML3CD,Statistics,Mr.Vikas Jain,304,Theory,1
+Friday,9:35-10:20,AIML3CD,Data Structures,Ms.Preeti Singh,304,Theory,1
+Friday,10:20-11:10,AIML3CD,Python Programming,Ms.Khushnain Kour,304,Theory,1
+Friday,11:10-12:00,AIML3CD,FREE,,FREE,,1
+Friday,12:00-12:50,AIML3CD,FREE,,FREE,,1
+Friday,1:35-2:20,AIML3CD,FREE,,FREE,,1
+Friday,2:20-3:05,AIML3CD,FREE,,FREE,,1
+Friday,3:05-3:50,AIML3CD,Statistics,Mr.Vikas Jain,304,Theory,1
+Friday,3:50-4:35,AIML3CD,FREE,,FREE,,1
+Monday,9:35-10:20,AIML5AB,Deep Learning,Dr.Amit Kumar,503,Theory,1
+Monday,10:20-11:10,AIML5AB,Deep Learning LAB,Dr.Amit Kumar,L9,Lab,1
+Monday,11:10-12:00,AIML5AB,Deep Learning LAB,Dr.Amit Kumar,L9,Lab,1
+Monday,12:00-12:50,AIML5AB,Data Science,Ms.Nidhi Gupta,503,Theory,1
+Monday,1:35-2:20,AIML5AB,Natural Language Processing,Ms.Tanya,503,Theory,1
+Monday,2:20-3:05,AIML5AB,Computer Vision,Mr.Rahul Jain,503,Theory,1
+Monday,3:05-3:50,AIML5AB,FREE,,FREE,,1
+Monday,3:50-4:35,AIML5AB,Big Data Analytics,Mr.Vivek Sharma,503,Theory,1
+Tuesday,9:35-10:20,AIML5AB,Project Work,Ms.Anita Verma,503,Theory,1
+Tuesday,10:20-11:10,AIML5AB,Data Science LAB,Ms.Nidhi Gupta,L9,Lab,1
+Tuesday,11:10-12:00,AIML5AB,Data Science LAB,Ms.Nidhi Gupta,L9,Lab,1
+Tuesday,12:00-12:50,AIML5AB,Deep Learning,Dr.Amit Kumar,503,Theory,1
+Tuesday,1:35-2:20,AIML5AB,Natural Language Processing,Ms.Tanya,503,Theory,1
+Tuesday,2:20-3:05,AIML5AB,Computer Vision,Mr.Rahul Jain,503,Theory,1
+Tuesday,3:05-3:50,AIML5AB,FREE,,FREE,,1
+Tuesday,3:50-4:35,AIML5AB,Big Data Analytics,Mr.Vivek Sharma,503,Theory,1
+Wednesday,9:35-10:20,AIML5AB,Natural Language Processing LAB,Ms.Tanya,L9,Lab,1
+Wednesday,10:20-11:10,AIML5AB,Natural Language Processing LAB,Ms.Tanya,L9,Lab,1
+Wednesday,11:10-12:00,AIML5AB,Data Science,Ms.Nidhi Gupta,503,Theory,1
+Wednesday,12:00-12:50,AIML5AB,Deep Learning,Dr.Amit Kumar,503,Theory,1
+Wednesday,1:35-2:20,AIML5AB,Computer Vision,Mr.Rahul Jain,503,Theory,1
+Wednesday,2:20-3:05,AIML5AB,FREE,,FREE,,1
+Wednesday,3:05-3:50,AIML5AB,Big Data Analytics,Mr.Vivek Sharma,503,Theory,1
+Wednesday,3:50-4:35,AIML5AB,Project Work,Ms.Anita Verma,503,Theory,1
+Thursday,9:35-10:20,AIML5AB,Computer Vision LAB,Mr.Rahul Jain,L9,Lab,1
+Thursday,10:20-11:10,AIML5AB,Computer Vision LAB,Mr.Rahul Jain,L9,Lab,1
+Thursday,11:10-12:00,AIML5AB,Natural Language Processing,Ms.Tanya,503,Theory,1
+Thursday,12:00-12:50,AIML5AB,Data Science,Ms.Nidhi Gupta,503,Theory,1
+Thursday,1:35-2:20,AIML5AB,Deep Learning,Dr.Amit Kumar,503,Theory,1
+Thursday,2:20-3:05,AIML5AB,FREE,,FREE,,1
+Thursday,3:05-3:50,AIML5AB,Big Data Analytics,Mr.Vivek Sharma,503,Theory,1
+Thursday,3:50-4:35,AIML5AB,Project Work,Ms.Anita Verma,503,Theory,1
+Friday,9:35-10:20,AIML5AB,Computer Vision,Mr.Rahul Jain,503,Theory,1
+Friday,10:20-11:10,AIML5AB,Natural Language Processing,Ms.Tanya,503,Theory,1
+Friday,11:10-12:00,AIML5AB,FREE,,FREE,,1
+Friday,12:00-12:50,AIML5AB,FREE,,FREE,,1
+Friday,1:35-2:20,AIML5AB,FREE,,FREE,,1
+Friday,2:20-3:05,AIML5AB,FREE,,FREE,,1
+Friday,3:05-3:50,AIML5AB,Data Science,Ms.Nidhi Gupta,503,Theory,1
+Friday,3:50-4:35,AIML5AB,Project Work,Ms.Anita Verma,503,Theory,1
+Monday,9:35-10:20,AIDS3AB,Data Structures,Ms.Meenakshi Garg,305,Theory,1
+Monday,10:20-11:10,AIDS3AB,Mathematics-III,Ms.Rashmi,305,Theory,1
+Monday,11:10-12:00,AIDS3AB,Data Structures LAB,Ms.Meenakshi Garg,L10,Lab,1
+Monday,12:00-12:50,AIDS3AB,Data Structures LAB,Ms.Meenakshi Garg,L10,Lab,1
+Monday,1:35-2:20,AIDS3AB,Python Programming,Ms.Khushnain Kour,305,Theory,1
+Monday,2:20-3:05,AIDS3AB,Database Systems,Ms.Kawalpreet,305,Theory,1
+Monday,3:05-3:50,AIDS3AB,FREE,,FREE,,1
+Monday,3:50-4:35,AIDS3AB,Digital Electronics,Ms.Bhupinder KAUR,305,Theory,1
+Tuesday,9:35-10:20,AIDS3AB,Statistics,Mr.Vikas Jain,305,Theory,1
+Tuesday,10:20-11:10,AIDS3AB,Python Programming LAB,Ms.Khushnain Kour,L10,Lab,1
+Tuesday,11:10-12:00,AIDS3AB,Python Programming LAB,Ms.Khushnain Kour,L10,Lab,1
+Tuesday,12:00-12:50,AIDS3AB,Data Structures,Ms.Meenakshi Garg,305,Theory,1
+Tuesday,1:35-2:20,AIDS3AB,Mathematics-III,Ms.Rashmi,305,Theory,1
+Tuesday,2:20-3:05,AIDS3AB,Database Systems,Ms.Kawalpreet,305,Theory,1
+Tuesday,3:05-3:50,AIDS3AB,FREE,,FREE,,1
+Tuesday,3:50-4:35,AIDS3AB,Digital Electronics,Ms.Bhupinder KAUR,305,Theory,1
+Wednesday,9:35-10:20,AIDS3AB,Database Systems LAB,Ms.Kawalpreet,L10,Lab,1
+Wednesday,10:20-11:10,AIDS3AB,Database Systems LAB,Ms.Kawalpreet,L10,Lab,1
+Wednesday,11:10-12:00,AIDS3AB,Python Programming,Ms.Khushnain Kour,305,Theory,1
+Wednesday,12:00-12:50,AIDS3AB,Data Structures,Ms.Meenakshi Garg,305,Theory,1
+Wednesday,1:35-2:20,AIDS3AB,Mathematics-III,Ms.Rashmi,305,Theory,1
+Wednesday,2:20-3:05,AIDS3AB,FREE,,FREE,,1
+Wednesday,3:05-3:50,AIDS3AB,Digital Electronics,Ms.Bhupinder KAUR,305,Theory,1
+Wednesday,3:50-4:35,AIDS3AB,Statistics,Mr.Vikas Jain,305,Theory,1
+Thursday,9:35-10:20,AIDS3AB,Digital Electronics LAB,Ms.Bhupinder KAUR,L10,Lab,1
+Thursday,10:20-11:10,AIDS3AB,Digital Electronics LAB,Ms.Bhupinder KAUR,L10,Lab,1
+Thursday,11:10-12:00,AIDS3AB,Database Systems,Ms.Kawalpreet,305,Theory,1
+Thursday,12:00-12:50,AIDS3AB,Python Programming,Ms.Khushnain Kour,305,Theory,1
+Thursday,1:35-2:20,AIDS3AB,Mathematics-III,Ms.Rashmi,305,Theory,1
+Thursday,2:20-3:05,AIDS3AB,FREE,,FREE,,1
+Thursday,3:05-3:50,AIDS3AB,Digital Electronics,Ms.Bhupinder KAUR,305,Theory,1
+Thursday,3:50-4:35,AIDS3AB,Statistics,Mr.Vikas Jain,305,Theory,1
+Friday,9:35-10:20,AIDS3AB,Data Structures,Ms.Meenakshi Garg,305,Theory,1
+Friday,10:20-11:10,AIDS3AB,Database Systems,Ms.Kawalpreet,305,Theory,1
+Friday,11:10-12:00,AIDS3AB,FREE,,FREE,,1
+Friday,12:00-12:50,AIDS3AB,FREE,,FREE,,1
+Friday,1:35-2:20,AIDS3AB,FREE,,FREE,,1
+Friday,2:20-3:05,AIDS3AB,FREE,,FREE,,1
+Friday,3:05-3:50,AIDS3AB,Statistics,Mr.Vikas Jain,305,Theory,1
+Friday,3:50-4:35,AIDS3AB,FREE,,FREE,,1
+Monday,9:35-10:20,AIDS3CD,Data Structures,Ms.Preeti Singh,306,Theory,1
+Monday,10:20-11:10,AIDS3CD,Mathematics-III,Ms.Rashmi,306,Theory,1
+Monday,11:10-12:00,AIDS3CD,Data Structures LAB,Ms.Preeti Singh,L11,Lab,1
+Monday,12:00-12:50,AIDS3CD,Data Structures LAB,Ms.Preeti Singh,L11,Lab,1
+Monday,1:35-2:20,AIDS3CD,Python Programming,Ms.Khushnain Kour,306,Theory,1
+Monday,2:20-3:05,AIDS3CD,Database Systems,Ms.Kawalpreet,306,Theory,1
+Monday,3:05-3:50,AIDS3CD,FREE,,FREE,,1
+Monday,3:50-4:35,AIDS3CD,Digital Electronics,Ms.Sonia Bhukra,306,Theory,1
+Tuesday,9:35-10:20,AIDS3CD,Statistics,Mr.Vikas Jain,306,Theory,1
+Tuesday,10:20-11:10,AIDS3CD,Python Programming LAB,Ms.Khushnain Kour,L11,Lab,1
+Tuesday,11:10-12:00,AIDS3CD,Python Programming LAB,Ms.Khushnain Kour,L11,Lab,1
+Tuesday,12:00-12:50,AIDS3CD,Data Structures,Ms.Preeti Singh,306,Theory,1
+Tuesday,1:35-2:20,AIDS3CD,Mathematics-III,Ms.Rashmi,306,Theory,1
+Tuesday,2:20-3:05,AIDS3CD,Database Systems,Ms.Kawalpreet,306,Theory,1
+Tuesday,3:05-3:50,AIDS3CD,FREE,,FREE,,1
+Tuesday,3:50-4:35,AIDS3CD,Digital Electronics,Ms.Sonia Bhukra,306,Theory,1
+Wednesday,9:35-10:20,AIDS3CD,Database Systems LAB,Ms.Kawalpreet,L11,Lab,1
+Wednesday,10:20-11:10,AIDS3CD,Database Systems LAB,Ms.Kawalpreet,L11,Lab,1
+Wednesday,11:10-12:00,AIDS3CD,Python Programming,Ms.Khushnain Kour,306,Theory,1
+Wednesday,12:00-12:50,AIDS3CD,Data Structures,Ms.Preeti Singh,306,Theory,1
+Wednesday,1:35-2:20,AIDS3CD,Mathematics-III,Ms.Rashmi,306,Theory,1
+Wednesday,2:20-3:05,AIDS3CD,FREE,,FREE,,1
+Wednesday,3:05-3:50,AIDS3CD,Digital Electronics,Ms.Sonia Bhukra,306,Theory,1
+Wednesday,3:50-4:35,AIDS3CD,Statistics,Mr.Vikas Jain,306,Theory,1
+Thursday,9:35-10:20,AIDS3CD,Digital Electronics LAB,Ms.Sonia Bhukra,L11,Lab,1
+Thursday,10:20-11:10,AIDS3CD,Digital Electronics LAB,Ms.Sonia Bhukra,L11,Lab,1
+Thursday,11:10-12:00,AIDS3CD,Database Systems,Ms.Kawalpreet,306,Theory,1
+Thursday,12:00-12:50,AIDS3CD,Python Programming,Ms.Khushnain Kour,306,Theory,1
+Thursday,1:35-2:20,AIDS3CD,Mathematics-III,Ms.Rashmi,306,Theory,1
+Thursday,2:20-3:05,AIDS3CD,FREE,,FREE,,1
+Thursday,3:05-3:50,AIDS3CD,Digital Electronics,Ms.Sonia Bhukra,306,Theory,1
+Thursday,3:50-4:35,AIDS3CD,Statistics,Mr.Vikas Jain,306,Theory,1
+Friday,9:35-10:20,AIDS3CD,Data Structures,Ms.Preeti Singh,306,Theory,1
+Friday,10:20-11:10,AIDS3CD,Database Systems,Ms.Kawalpreet,306,Theory,1
+Friday,11:10-12:00,AIDS3CD,FREE,,FREE,,1
+Friday,12:00-12:50,AIDS3CD,FREE,,FREE,,1
+Friday,1:35-2:20,AIDS3CD,FREE,,FREE,,1
+Friday,2:20-3:05,AIDS3CD,FREE,,FREE,,1
+Friday,3:05-3:50,AIDS3CD,Statistics,Mr.Vikas Jain,306,Theory,1
+Friday,3:50-4:35,AIDS3CD,FREE,,FREE,,1
+Monday,9:35-10:20,AIDS5AB,Data Science,Ms.Nidhi Gupta,504,Theory,1
+Monday,10:20-11:10,AIDS5AB,Data Science LAB,Ms.Nidhi Gupta,L12,Lab,1
+Monday,11:10-12:00,AIDS5AB,Data Science LAB,Ms.Nidhi Gupta,L12,Lab,1
+Monday,12:00-12:50,AIDS5AB,Database Management Systems,Ms.Kawalpreet,504,Theory,1
+Monday,1:35-2:20,AIDS5AB,Machine Learning,Ms.Sneha Patel,504,Theory,1
+Monday,2:20-3:05,AIDS5AB,Big Data Analytics,Mr.Vivek Sharma,504,Theory,1
+Monday,3:05-3:50,AIDS5AB,FREE,,FREE,,1
+Monday,3:50-4:35,AIDS5AB,Cloud Computing,Ms.Anita Verma,504,Theory,1
+Tuesday,9:35-10:20,AIDS5AB,Project Work,Dr.Ravi Singh,504,Theory,1
+Tuesday,10:20-11:10,AIDS5AB,Database Management Systems LAB,Ms.Kawalpreet,L12,Lab,1
+Tuesday,11:10-12:00,AIDS5AB,Database Management Systems LAB,Ms.Kawalpreet,L12,Lab,1
+Tuesday,12:00-12:50,AIDS5AB,Data Science,Ms.Nidhi Gupta,504,Theory,1
+Tuesday,1:35-2:20,AIDS5AB,Machine Learning,Ms.Sneha Patel,504,Theory,1
+Tuesday,2:20-3:05,AIDS5AB,Big Data Analytics,Mr.Vivek Sharma,504,Theory,1
+Tuesday,3:05-3:50,AIDS5AB,FREE,,FREE,,1
+Tuesday,3:50-4:35,AIDS5AB,Cloud Computing,Ms.Anita Verma,504,Theory,1
+Wednesday,9:35-10:20,AIDS5AB,Machine Learning LAB,Ms.Sneha Patel,L12,Lab,1
+Wednesday,10:20-11:10,AIDS5AB,Machine Learning LAB,Ms.Sneha Patel,L12,Lab,1
+Wednesday,11:10-12:00,AIDS5AB,Database Management Systems,Ms.Kawalpreet,504,Theory,1
+Wednesday,12:00-12:50,AIDS5AB,Data Science,Ms.Nidhi Gupta,504,Theory,1
+Wednesday,1:35-2:20,AIDS5AB,Big Data Analytics,Mr.Vivek Sharma,504,Theory,1
+Wednesday,2:20-3:05,AIDS5AB,FREE,,FREE,,1
+Wednesday,3:05-3:50,AIDS5AB,Cloud Computing,Ms.Anita Verma,504,Theory,1
+Wednesday,3:50-4:35,AIDS5AB,Project Work,Dr.Ravi Singh,504,Theory,1
+Thursday,9:35-10:20,AIDS5AB,Big Data Analytics LAB,Mr.Vivek Sharma,L12,Lab,1
+Thursday,10:20-11:10,AIDS5AB,Big Data Analytics LAB,Mr.Vivek Sharma,L12,Lab,1
+Thursday,11:10-12:00,AIDS5AB,Machine Learning,Ms.Sneha Patel,504,Theory,1
+Thursday,12:00-12:50,AIDS5AB,Database Management Systems,Ms.Kawalpreet,504,Theory,1
+Thursday,1:35-2:20,AIDS5AB,Data Science,Ms.Nidhi Gupta,504,Theory,1
+Thursday,2:20-3:05,AIDS5AB,FREE,,FREE,,1
+Thursday,3:05-3:50,AIDS5AB,Cloud Computing,Ms.Anita Verma,504,Theory,1
+Thursday,3:50-4:35,AIDS5AB,Project Work,Dr.Ravi Singh,504,Theory,1
+Friday,9:35-10:20,AIDS5AB,Big Data Analytics,Mr.Vivek Sharma,504,Theory,1
+Friday,10:20-11:10,AIDS5AB,Machine Learning,Ms.Sneha Patel,504,Theory,1
+Friday,11:10-12:00,AIDS5AB,FREE,,FREE,,1
+Friday,12:00-12:50,AIDS5AB,FREE,,FREE,,1
+Friday,1:35-2:20,AIDS5AB,FREE,,FREE,,1
+Friday,2:20-3:05,AIDS5AB,FREE,,FREE,,1
+Friday,3:05-3:50,AIDS5AB,Database Management Systems,Ms.Kawalpreet,504,Theory,1
+Friday,3:50-4:35,AIDS5AB,Project Work,Dr.Ravi Singh,504,Theory,1
+Monday,9:35-10:20,ECE3AB,Circuit Theory,Mr.Ajay Kumar,E301,Theory,1
+Monday,10:20-11:10,ECE3AB,Electronics Devices,Ms.Neha Sharma,E301,Theory,1
+Monday,11:10-12:00,ECE3AB,Signals & Systems,Ms.Priya Singh,E301,Theory,1
+Monday,12:00-12:50,ECE3AB,Electromagnetic Theory,Mr.Vikram Singh,E301,Theory,1
+Monday,1:35-2:20,ECE3AB,Circuit Theory LAB,Mr.Ajay Kumar,L3,Lab,1
+Monday,2:20-3:05,ECE3AB,Circuit Theory LAB,Mr.Ajay Kumar,L3,Lab,1
+Monday,3:05-3:50,ECE3AB,Digital Circuits,Ms.Ritu Gupta,E301,Theory,1
+Monday,3:50-4:35,ECE3AB,Control Systems,Mr.Sanjay Patel,E301,Theory,1
+Tuesday,9:35-10:20,ECE3AB,Electronics Devices LAB,Ms.Neha Sharma,L3,Lab,1
+Tuesday,10:20-11:10,ECE3AB,Electronics Devices LAB,Ms.Neha Sharma,L3,Lab,1
+Tuesday,11:10-12:00,ECE3AB,Signals & Systems,Ms.Priya Singh,E301,Theory,1
+Tuesday,12:00-12:50,ECE3AB,Circuit Theory,Mr.Ajay Kumar,E301,Theory,1
+Tuesday,1:35-2:20,ECE3AB,Electromagnetic Theory,Mr.Vikram Singh,E301,Theory,1
+Tuesday,2:20-3:05,ECE3AB,Digital Circuits LAB,Ms.Ritu Gupta,L3,Lab,1
+Tuesday,3:05-3:50,ECE3AB,Digital Circuits LAB,Ms.Ritu Gupta,L3,Lab,1
+Tuesday,3:50-4:35,ECE3AB,Control Systems,Mr.Sanjay Patel,E301,Theory,1
+Wednesday,9:35-10:20,ECE3AB,Signals & Systems LAB,Ms.Priya Singh,L3,Lab,1
+Wednesday,10:20-11:10,ECE3AB,Signals & Systems LAB,Ms.Priya Singh,L3,Lab,1
+Wednesday,11:10-12:00,ECE3AB,Electronics Devices,Ms.Neha Sharma,E301,Theory,1
+Wednesday,12:00-12:50,ECE3AB,Circuit Theory,Mr.Ajay Kumar,E301,Theory,1
+Wednesday,1:35-2:20,ECE3AB,Electromagnetic Theory,Mr.Vikram Singh,E301,Theory,1
+Wednesday,2:20-3:05,ECE3AB,Digital Circuits,Ms.Ritu Gupta,E301,Theory,1
+Wednesday,3:05-3:50,ECE3AB,Control Systems,Mr.Sanjay Patel,E301,Theory,1
+Wednesday,3:50-4:35,ECE3AB,FREE,,FREE,,1
+Thursday,9:35-10:20,ECE3AB,Signals & Systems,Ms.Priya Singh,E301,Theory,1
+Thursday,10:20-11:10,ECE3AB,Electronics Devices,Ms.Neha Sharma,E301,Theory,1
+Thursday,11:10-12:00,ECE3AB,Circuit Theory,Mr.Ajay Kumar,E301,Theory,1
+Thursday,12:00-12:50,ECE3AB,Electromagnetic Theory LAB,Mr.Vikram Singh,L3,Lab,1
+Thursday,1:35-2:20,ECE3AB,Electromagnetic Theory LAB,Mr.Vikram Singh,L3,Lab,1
+Thursday,2:20-3:05,ECE3AB,Digital Circuits,Ms.Ritu Gupta,E301,Theory,1
+Thursday,3:05-3:50,ECE3AB,Control Systems,Mr.Sanjay Patel,E301,Theory,1
+Thursday,3:50-4:35,ECE3AB,FREE,,FREE,,1
+Friday,9:35-10:20,ECE3AB,Electromagnetic Theory,Mr.Vikram Singh,E301,Theory,1
+Friday,10:20-11:10,ECE3AB,Signals & Systems,Ms.Priya Singh,E301,Theory,1
+Friday,11:10-12:00,ECE3AB,Digital Circuits,Ms.Ritu Gupta,E301,Theory,1
+Friday,12:00-12:50,ECE3AB,Control Systems LAB,Mr.Sanjay Patel,L3,Lab,1
+Friday,1:35-2:20,ECE3AB,Control Systems LAB,Mr.Sanjay Patel,L3,Lab,1
+Friday,2:20-3:05,ECE3AB,Electronics Devices,Ms.Neha Sharma,E301,Theory,1
+Friday,3:05-3:50,ECE3AB,FREE,,FREE,,1
+Friday,3:50-4:35,ECE3AB,FREE,,FREE,,1
+Monday,9:35-10:20,MECH3AB,Thermodynamics,Mr.Rajesh Kumar,M301,Theory,1
+Monday,10:20-11:10,MECH3AB,Mechanics of Materials,Ms.Suman Verma,M301,Theory,1
+Monday,11:10-12:00,MECH3AB,Fluid Mechanics,Mr.Ashok Patel,M301,Theory,1
+Monday,12:00-12:50,MECH3AB,Machine Design,Ms.Rekha Sharma,M301,Theory,1
+Monday,1:35-2:20,MECH3AB,Thermodynamics LAB,Mr.Rajesh Kumar,L4,Lab,1
+Monday,2:20-3:05,MECH3AB,Thermodynamics LAB,Mr.Rajesh Kumar,L4,Lab,1
+Monday,3:05-3:50,MECH3AB,Manufacturing Processes,Mr.Vinod Kumar,M301,Theory,1
+Monday,3:50-4:35,MECH3AB,Strength of Materials,Ms.Poonam Desai,M301,Theory,1
+Tuesday,9:35-10:20,MECH3AB,Mechanics of Materials LAB,Ms.Suman Verma,L4,Lab,1
+Tuesday,10:20-11:10,MECH3AB,Mechanics of Materials LAB,Ms.Suman Verma,L4,Lab,1
+Tuesday,11:10-12:00,MECH3AB,Thermodynamics,Mr.Rajesh Kumar,M301,Theory,1
+Tuesday,12:00-12:50,MECH3AB,Fluid Mechanics,Mr.Ashok Patel,M301,Theory,1
+Tuesday,1:35-2:20,MECH3AB,Machine Design,Ms.Rekha Sharma,M301,Theory,1
+Tuesday,2:20-3:05,MECH3AB,Manufacturing Processes LAB,Mr.Vinod Kumar,L4,Lab,1
+Tuesday,3:05-3:50,MECH3AB,Manufacturing Processes LAB,Mr.Vinod Kumar,L4,Lab,1
+Tuesday,3:50-4:35,MECH3AB,Strength of Materials,Ms.Poonam Desai,M301,Theory,1
+Wednesday,9:35-10:20,MECH3AB,Fluid Mechanics LAB,Mr.Ashok Patel,L4,Lab,1
+Wednesday,10:20-11:10,MECH3AB,Fluid Mechanics LAB,Mr.Ashok Patel,L4,Lab,1
+Wednesday,11:10-12:00,MECH3AB,Thermodynamics,Mr.Rajesh Kumar,M301,Theory,1
+Wednesday,12:00-12:50,MECH3AB,Mechanics of Materials,Ms.Suman Verma,M301,Theory,1
+Wednesday,1:35-2:20,MECH3AB,Machine Design,Ms.Rekha Sharma,M301,Theory,1
+Wednesday,2:20-3:05,MECH3AB,Manufacturing Processes,Mr.Vinod Kumar,M301,Theory,1
+Wednesday,3:05-3:50,MECH3AB,Strength of Materials,Ms.Poonam Desai,M301,Theory,1
+Wednesday,3:50-4:35,MECH3AB,FREE,,FREE,,1
+Thursday,9:35-10:20,MECH3AB,Machine Design LAB,Ms.Rekha Sharma,L4,Lab,1
+Thursday,10:20-11:10,MECH3AB,Machine Design LAB,Ms.Rekha Sharma,L4,Lab,1
+Thursday,11:10-12:00,MECH3AB,Thermodynamics,Mr.Rajesh Kumar,M301,Theory,1
+Thursday,12:00-12:50,MECH3AB,Fluid Mechanics,Mr.Ashok Patel,M301,Theory,1
+Thursday,1:35-2:20,MECH3AB,Mechanics of Materials,Ms.Suman Verma,M301,Theory,1
+Thursday,2:20-3:05,MECH3AB,Manufacturing Processes,Mr.Vinod Kumar,M301,Theory,1
+Thursday,3:05-3:50,MECH3AB,Strength of Materials LAB,Ms.Poonam Desai,L4,Lab,1
+Thursday,3:50-4:35,MECH3AB,Strength of Materials LAB,Ms.Poonam Desai,L4,Lab,1
+Friday,9:35-10:20,MECH3AB,Fluid Mechanics,Mr.Ashok Patel,M301,Theory,1
+Friday,10:20-11:10,MECH3AB,Machine Design,Ms.Rekha Sharma,M301,Theory,1
+Friday,11:10-12:00,MECH3AB,Manufacturing Processes,Mr.Vinod Kumar,M301,Theory,1
+Friday,12:00-12:50,MECH3AB,Strength of Materials,Ms.Poonam Desai,M301,Theory,1
+Friday,1:35-2:20,MECH3AB,Thermodynamics,Mr.Rajesh Kumar,M301,Theory,1
+Friday,2:20-3:05,MECH3AB,Mechanics of Materials,Ms.Suman Verma,M301,Theory,1
+Friday,3:05-3:50,MECH3AB,FREE,,FREE,,1
+Friday,3:50-4:35,MECH3AB,FREE,,FREE,,1
+Monday,9:35-10:20,BCOM3AB,Financial Accounting,Ms.Pooja Gupta,B301,Theory,1
+Monday,10:20-11:10,BCOM3AB,Business Economics,Mr.Vikas Jain,B301,Theory,1
+Monday,11:10-12:00,BCOM3AB,Business Law,Ms.Ritu Sharma,B301,Theory,1
+Monday,12:00-12:50,BCOM3AB,Cost Accounting,Mr.Suresh Kumar,B301,Theory,1
+Monday,1:35-2:20,BCOM3AB,Business Statistics,Ms.Neelam Rani,B301,Theory,1
+Monday,2:20-3:05,BCOM3AB,Principles of Management,Mr.Rahul Verma,B301,Theory,1
+Monday,3:05-3:50,BCOM3AB,Corporate Accounting,Ms.Suman Lata,B301,Theory,1
+Monday,3:50-4:35,BCOM3AB,FREE,,FREE,,1
+Tuesday,9:35-10:20,BCOM3AB,Financial Accounting,Ms.Pooja Gupta,B301,Theory,1
+Tuesday,10:20-11:10,BCOM3AB,Business Economics,Mr.Vikas Jain,B301,Theory,1
+Tuesday,11:10-12:00,BCOM3AB,Business Law,Ms.Ritu Sharma,B301,Theory,1
+Tuesday,12:00-12:50,BCOM3AB,Cost Accounting,Mr.Suresh Kumar,B301,Theory,1
+Tuesday,1:35-2:20,BCOM3AB,Business Statistics,Ms.Neelam Rani,B301,Theory,1
+Tuesday,2:20-3:05,BCOM3AB,Principles of Management,Mr.Rahul Verma,B301,Theory,1
+Tuesday,3:05-3:50,BCOM3AB,Corporate Accounting,Ms.Suman Lata,B301,Theory,1
+Tuesday,3:50-4:35,BCOM3AB,FREE,,FREE,,1
+Wednesday,9:35-10:20,BCOM3AB,Financial Accounting,Ms.Pooja Gupta,B301,Theory,1
+Wednesday,10:20-11:10,BCOM3AB,Business Economics,Mr.Vikas Jain,B301,Theory,1
+Wednesday,11:10-12:00,BCOM3AB,Business Law,Ms.Ritu Sharma,B301,Theory,1
+Wednesday,12:00-12:50,BCOM3AB,Cost Accounting,Mr.Suresh Kumar,B301,Theory,1
+Wednesday,1:35-2:20,BCOM3AB,Business Statistics,Ms.Neelam Rani,B301,Theory,1
+Wednesday,2:20-3:05,BCOM3AB,Principles of Management,Mr.Rahul Verma,B301,Theory,1
+Wednesday,3:05-3:50,BCOM3AB,Corporate Accounting,Ms.Suman Lata,B301,Theory,1
+Wednesday,3:50-4:35,BCOM3AB,FREE,,FREE,,1
+Thursday,9:35-10:20,BCOM3AB,Financial Accounting,Ms.Pooja Gupta,B301,Theory,1
+Thursday,10:20-11:10,BCOM3AB,Business Economics,Mr.Vikas Jain,B301,Theory,1
+Thursday,11:10-12:00,BCOM3AB,Business Law,Ms.Ritu Sharma,B301,Theory,1
+Thursday,12:00-12:50,BCOM3AB,Cost Accounting,Mr.Suresh Kumar,B301,Theory,1
+Thursday,1:35-2:20,BCOM3AB,Business Statistics,Ms.Neelam Rani,B301,Theory,1
+Thursday,2:20-3:05,BCOM3AB,Principles of Management,Mr.Rahul Verma,B301,Theory,1
+Thursday,3:05-3:50,BCOM3AB,Corporate Accounting,Ms.Suman Lata,B301,Theory,1
+Thursday,3:50-4:35,BCOM3AB,FREE,,FREE,,1
+Friday,9:35-10:20,BCOM3AB,Business Statistics,Ms.Neelam Rani,B301,Theory,1
+Friday,10:20-11:10,BCOM3AB,Principles of Management,Mr.Rahul Verma,B301,Theory,1
+Friday,11:10-12:00,BCOM3AB,Corporate Accounting,Ms.Suman Lata,B301,Theory,1
+Friday,12:00-12:50,BCOM3AB,FREE,,FREE,,1
+Friday,1:35-2:20,BCOM3AB,FREE,,FREE,,1
+Friday,2:20-3:05,BCOM3AB,FREE,,FREE,,1
+Friday,3:05-3:50,BCOM3AB,FREE,,FREE,,1
+Friday,3:50-4:35,BCOM3AB,FREE,,FREE,,1
