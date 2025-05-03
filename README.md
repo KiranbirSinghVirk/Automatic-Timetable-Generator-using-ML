@@ -43,13 +43,18 @@ The Random Forest algorithm is well-suited for this project because:
 ## Group Project
 This project is a **team effort** developed collaboratively. Below are the contributors and their roles:
 
-| Name                    | Role(s)                                                               |
-|-------------------------|------------------------------------------------------------------------|
-| Arshdeep Singh          | Frontend, Data Collection & Processing, Documentation                 |
-| Deepak                  | Frontend, Data Collection & Processing, Documentation                 |
-| Anushka Soorma          | Backend Development                                                   |
-| Jyoti                   | Backend Development                                                   |
-| Kiranbir Singh Virk     | Overall Frontend & Backend Development                                |
+## 🚀 Group Project
 
+This project is a **team effort** developed collaboratively. Below are the contributors and their roles:
 
+## 🚀 Group Project
 
+This project is a **team effort** developed collaboratively. Below are the contributors and their roles:
+
+| Name                    | Role(s)                                                             |
+|-------------------------|----------------------------------------------------------------------|
+| Anushka Soorma          | Machine Learning (Model Development & Training)                      |
+| Arshdeep Singh          | Frontend & Data Collection                                           |
+| Deepak                  | Data Processing & Documentation                                      |
+| Jyoti                   | Backend Development                                                  |
+| Kiranbir Singh Virk     | Overall Frontend & Backend Development                               |
