@@ -41,12 +41,12 @@ The Random Forest algorithm is well-suited for this project because:
 - Django REST Framework
 
 ## Group Project
-This project is a **collaborative group project** where I contributed to various aspects of the development, including backend, data handling, and machine learning:
+This project is a **collaborative group project** where each member contributed to different core areas of development and implementation:
 
 | Name                    | Role(s)                                                                      |
 |-------------------------|-------------------------------------------------------------------------------|
-| Anushka Soorma          | Machine Learning (Model Building & Algorithm Development)                    |
+| Anushka Soorma          | Machine Learning & Database Integration                                      |
 | Arshdeep Singh          | Frontend Development & Data Collection                                        |
-| Deepak                  | Data Processing (Data Transformation, Cleaning) & Project Documentation      |
-| Jyoti                   | Backend Development (Python, APIs), Data Handling (Data Preprocessing, Analysis) |
-| Kiranbir Singh Virk     | Full-stack Development (Frontend & Backend), Machine Learning Support         |
+| Deepak                  | Data Processing (Transformation & Cleaning) & Project Documentation          |
+| Jyoti                   | Machine Learning & Database Management                                       |
+| Kiranbir Singh Virk     | Frontend Development, Backend Development & Machine Learning                 |
