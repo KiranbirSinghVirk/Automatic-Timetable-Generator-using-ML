@@ -43,14 +43,6 @@ The Random Forest algorithm is well-suited for this project because:
 ## Group Project
 This project is a **team effort** developed collaboratively. Below are the contributors and their roles:
 
-## 🚀 Group Project
-
-This project is a **team effort** developed collaboratively. Below are the contributors and their roles:
-
-## 🚀 Group Project
-
-This project is a **team effort** developed collaboratively. Below are the contributors and their roles:
-
 | Name                    | Role(s)                                                             |
 |-------------------------|----------------------------------------------------------------------|
 | Anushka Soorma          | Machine Learning (Model Development & Training)                      |
