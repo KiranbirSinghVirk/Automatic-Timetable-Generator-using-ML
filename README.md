@@ -29,7 +29,7 @@ The project uses a **Random Forest Classifier** to solve the timetable generatio
 The Random Forest algorithm is well-suited for this project because:
 - It handles categorical and numerical data effectively.
 - It is robust to overfitting due to its ensemble nature.
-- It provides high accuracy for classification tasks like predicting slot assignments.
+- It provides high accuracy for classification tasks like predicting slot assignments..
 
 ## Installation and Setup
 ### Prerequisites
