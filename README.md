@@ -10,7 +10,7 @@ The **Automatic Timetable Generator** is a project designed to automate the crea
 - **User-Friendly Interface**: A responsive frontend for managing and viewing timetables.
 - **Database Integration**: Stores timetable data in a database for persistence.
 
-## How It Works![Screenshot (2)](https://github.com/user-attachments/assets/310af36c-4b69-4e35-bade-577414922bb5)
+
 
 1. **Input Data**: Users provide input data such as teacher availability, subjects, and room details.
 2. **Data Processing**: The backend processes the input data and applies constraints.
